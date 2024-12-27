@@ -24,3 +24,4 @@ else{
     console.log(`Item found at index ${resultIndex}`);
     
 }
+

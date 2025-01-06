@@ -1,3 +1,7 @@
+// splice
+// ----------------------------------
+
+
 const fruits=['mango','apple','orange','grapes','kiwi','pappaya']
 fruits.splice(2,2)
 fruits.splice(2,1)

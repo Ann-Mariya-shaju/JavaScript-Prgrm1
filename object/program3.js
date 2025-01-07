@@ -27,3 +27,10 @@ for(let item in student){
     
 }
 
+console.log("-----------------------------------");
+
+for(let key in student){
+    console.log(key + ':' + student[key]);
+    
+}
+
